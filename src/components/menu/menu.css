@@ -1,0 +1,36 @@
+
+.Header{
+    width: 100%;
+    position:fixed;
+    top: 0;
+    background-color: #fec63e ;
+    padding: 15px 0;
+    z-index: 10;
+}
+
+.Header_Menu{
+     text-align: right;
+  
+}
+
+.Header_Menu ul li{
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 20px;
+   
+}
+
+.Link{
+  color:#000;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: 14px;
+  line-height: 20px;
+  padding:10px 0;
+}
+
+.Link:hover{
+    color: #FFF;
+}
+

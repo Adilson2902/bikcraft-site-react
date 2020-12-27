@@ -1,0 +1,37 @@
+
+
+  .portfolio .subtitulo{
+      color: #fec63e;
+  }
+
+
+  .portfolio .subtitulo::after{
+    background-color: #fec63e;
+}
+
+
+
+  .portfolio{
+   
+      width: 100%;
+      background-color: black;
+      padding: 40px 0;
+  }
+ 
+ 
+
+ 
+  .ul-portfolio li:last-child{
+
+    margin-top: 20px;
+
+  }
+
+
+  .portfolio .call p{
+      color: white;
+  }
+
+  .portfolio .call p::after{
+    margin-bottom: 30px;
+  }
